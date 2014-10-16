@@ -1,0 +1,22 @@
+{
+  "name": "bone-arduino-api",
+  "version": "0.0.3",
+  "description": "Arduino API for BeagleBone Black board",
+  "author": "Artem Levenkov <artem@levenkov.ru>",
+  "main": "main",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amperka/bone-arduino-api"
+  },
+  "keywords": [
+    "beaglebone",
+    "arduino",
+    "study"
+  ],
+  "preferGlobal": true,
+  "private": false,
+  "subdomain": "foobar",
+  "analyze": true,
+  "license": "MIT"
+}
+
